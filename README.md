@@ -13,7 +13,7 @@ A modern and responsive online electronics store built with React, TailwindCSS, 
 
 
 ## 🚀 Live Demo
-Check it out 👉 **[Live Demo](https://Nastaranfh7.github.io/Mini-E-Commerce-Store-react/)**
+Check it out 👉 **[Live Demo](https://github.com/Nastaranfh7/Mini-E-Commerce-Store-react.git)**
 ---
 
 🛍️ What This App Does
