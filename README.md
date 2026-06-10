@@ -48,8 +48,6 @@ ElectroShop is a complete mini e‑commerce application with:
 
 ---
 
-📁 Project Structure
-
 src/
 │── App.jsx
 │── main.jsx
