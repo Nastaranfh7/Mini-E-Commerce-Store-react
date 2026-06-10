@@ -1,3 +1,4 @@
+
 ---
 
 ⚡ ElectroShop – Modern Electronics Store (React + Tailwind + Context API)
@@ -9,7 +10,7 @@ A modern and responsive electronics store built with React, TailwindCSS, and Con
 🔗 Live Demo
 
 👉 ElectroShop on GitHub Pages
-https://nastaranfh7.github.io/context-api/ (nastaranfh7.github.io in Bing)
+https://nastaranfh7.github.io/Mini-E-Commerce-Store-react/
 
 ---
 
@@ -118,8 +119,8 @@ src/
 
 🚀 How to Run Locally
 
-git clone https://github.com/Nastaranfh7/context-api.git
-cd context-api
+git clone https://github.com/Nastaranfh7/Mini-E-Commerce-Store-react.git
+cd Mini-E-Commerce-Store-react
 npm install
 npm run dev
 
@@ -140,3 +141,5 @@ npm run dev
 
 Built with passion by Nastaran Fazli Heravi
 Frontend Developer | React | Shopify | UX/UI | E‑commerce
+
+---.
