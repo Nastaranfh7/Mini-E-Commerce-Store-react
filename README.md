@@ -10,8 +10,10 @@ A modern and responsive online electronics store built with React, TailwindCSS, 
 🔗 Live Demo
 
 👉 ElectroShop on GitHub Pages
-(https://github.com/Nastaranfh7/Mini-E-Commerce-Store-react.git)
 
+
+## 🚀 Live Demo
+Check it out 👉 **[Live Demo](https://Nastaranfh7.github.io/Mini-E-Commerce-Store-react/)**
 ---
 
 🛍️ What This App Does
