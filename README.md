@@ -1,36 +1,35 @@
-
 ---
 
 ⚡ ElectroShop – Modern Electronics Store (React + Tailwind + Context API)
 
-A modern and responsive online electronics store built with React, TailwindCSS, and Context API.
+A modern and responsive electronics store built with React, TailwindCSS, and Context API, featuring product browsing, filtering, cart system, checkout flow, and clean UI.
 
 ---
 
 🔗 Live Demo
 
 👉 ElectroShop on GitHub Pages
+https://nastaranfh7.github.io/context-api/ (nastaranfh7.github.io in Bing)
 
-
-## 🚀 Live Demo
-Check it out 👉 **[Live Demo](https://github.com/Nastaranfh7/Mini-E-Commerce-Store-react.git)**
 ---
 
 🛍️ What This App Does
 
-ElectroShop is a complete and professional electronics store application with the following features:
+ElectroShop is a complete mini e‑commerce application with:
 
-• Display electronic products with images, prices, and descriptions
-• Category‑based product filtering
-• Live search functionality
+• Displaying electronic products with images, prices, descriptions
+• Category‑based filtering
+• Live search
 • Product detail page
-• Shopping cart powered by Context API
+• Shopping cart (Context API)
 • Animated cart drawer
-• Quantity management, item removal, and total calculation
+• Quantity increase/decrease
+• Remove items
+• Auto‑calculated total
 • Login / Signup pages
-• Checkout and Order Success pages
-• Fully responsive design
-• Clean and modular code structure
+• Checkout + Order Success
+• Fully responsive
+• Clean modular code
 
 
 ---
@@ -78,31 +77,31 @@ src/
 │   └── CartContext.jsx
 │
 └── images/
-    └── product images...
+    └── product images…
 
 
 ---
 
-🧩 Core Features Explained
+🧩 Core Features
 
 🛒 Cart System (Context API)
 
-• Add items to cart
+• Add to cart
 • Remove items
 • Increase / decrease quantity
-• Auto‑calculated total price
+• Auto total calculation
 
 
 🔍 Search + Filter
 
 • Live search
-• Category filtering
-• Combined search + filter logic
+• Category filter
+• Combined logic
 
 
 📦 Product Detail Page
 
-• Large product image
+• Large image
 • Full description
 • Price
 • Related products
@@ -119,26 +118,20 @@ src/
 
 🚀 How to Run Locally
 
-git clone https://github.com/Nastaranfh7/fast-food.git
-cd fast-food
+git clone https://github.com/Nastaranfh7/context-api.git
+cd context-api
 npm install
 npm run dev
 
 
 ---
 
-🖼️ Screenshots
-
-(Add your screenshots here — I can design them for you if you want)
-
----
-
 🎯 Future Improvements
 
 • Real API integration
-• JWT authentication system
-• Admin dashboard for product management
-• Dark mode support
+• JWT authentication
+• Admin dashboard
+• Dark mode
 
 
 ---
@@ -147,15 +140,3 @@ npm run dev
 
 Built with passion by Nastaran Fazli Heravi
 Frontend Developer | React | Shopify | UX/UI | E‑commerce
-
----
-
-If you want, I can also create:
-
-• A shorter version
-• A more visual / aesthetic version
-• A GitHub‑optimized version with badges
-• A bilingual English + Persian version
-
-
-Just tell me which style you prefer.
