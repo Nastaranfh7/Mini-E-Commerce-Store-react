@@ -10,7 +10,7 @@ A modern and responsive online electronics store built with React, TailwindCSS, 
 🔗 Live Demo
 
 👉 ElectroShop on GitHub Pages
-[(Add your deployment link here once ready)](https://github.com/Nastaranfh7/smart-food-order.git)
+(https://github.com/Nastaranfh7/smart-food-order.git)
 
 ---
 
